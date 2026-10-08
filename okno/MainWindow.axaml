@@ -6,6 +6,6 @@
         x:Class="okno.MainWindow"
         Title="oknoo"
         WindowStartupLocation="CenterScreen"
-        CanResize="False">
+        WindowState="Maximized">
     Welcome to Avalonia!
 </Window>
