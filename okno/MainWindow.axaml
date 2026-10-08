@@ -6,5 +6,6 @@
         x:Class="okno.MainWindow"
         Title="oknoo"
         WindowStartupLocation="CenterScreen">
-    hej fajne okno, podoba mi sie
+        <TextBlock Text="moje zadanie" FontSize="32" FontWeight="Bold" FontStyle="Italic"  Foreground="Red" Background="gray" HorizontalAlignment="Center" />
+    
 </Window>
